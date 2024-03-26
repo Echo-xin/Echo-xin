@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T12:23:05.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="ka7XrCyJNE7KWFeNu7L0" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T12:27:32.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="VkYN7ywZ4yF8e4vDWvLb" version="24.1.0" type="github">
   <diagram name="第 1 页" id="_mK1rpeInKig8EZD3MZd">
     <mxGraphModel dx="1328" dy="1136" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,27 @@
         </mxCell>
         <mxCell id="ZrGJoh0EI-ShpoaBizYV-16" value="Detail: XXXX&lt;div&gt;XXXXX&lt;span style=&quot;background-color: initial;&quot;&gt;X&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;X&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;XX&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;XXXXXXXXX&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="ZrGJoh0EI-ShpoaBizYV-5" vertex="1">
           <mxGeometry x="8" y="264" width="114" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-20" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=10;fillColor=#ffffff;strokeColor=#666666;" vertex="1" parent="ZrGJoh0EI-ShpoaBizYV-5">
+          <mxGeometry x="144" y="129" width="557" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-21" value="Button 2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeHeight=1;whiteSpace=wrap;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-20">
+          <mxGeometry width="125" height="44" relative="1" as="geometry">
+            <mxPoint x="125" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-22" value="Button 3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeHeight=1;whiteSpace=wrap;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-20">
+          <mxGeometry width="125" height="44" relative="1" as="geometry">
+            <mxPoint x="250" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-23" value="Button 4" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fontSize=17;fontColor=#666666;fontStyle=1;resizeHeight=1;whiteSpace=wrap;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-20">
+          <mxGeometry x="1" width="125" height="44" relative="1" as="geometry">
+            <mxPoint x="-125" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-24" value="Students" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fontSize=17;fontColor=#ffffff;fontStyle=1;fillColor=#008cff;strokeColor=#008cff;resizeHeight=1;whiteSpace=wrap;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-20">
+          <mxGeometry width="125" height="44" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BWHUOpJET-gqt2DuxPi3-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="-190" y="995" width="736" height="433" as="geometry" />
