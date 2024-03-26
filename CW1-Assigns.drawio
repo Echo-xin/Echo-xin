@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T12:53:36.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="7vjix-2ZHoKH2L1Hor8M" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T13:07:32.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="ZmfFysg2NsqzNGESMTt-" version="24.1.0" type="github">
   <diagram name="第 1 页" id="_mK1rpeInKig8EZD3MZd">
     <mxGraphModel dx="1289" dy="1136" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
           <mxGeometry x="8" y="264" width="114" height="62" as="geometry" />
         </mxCell>
         <mxCell id="BWHUOpJET-gqt2DuxPi3-41" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="-178" y="466" width="736" height="433" as="geometry" />
+          <mxGeometry x="-182" y="449" width="736" height="435" as="geometry" />
         </mxCell>
         <mxCell id="BWHUOpJET-gqt2DuxPi3-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot; class=&quot;15&quot;&gt;&lt;font color=&quot;#080808&quot; style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;Assigns Home&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;Page&amp;nbsp;&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
           <mxGeometry x="60" y="14" width="224" height="26" as="geometry" />
@@ -145,31 +145,114 @@
           <mxGeometry width="183" height="31" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BWHUOpJET-gqt2DuxPi3-74" value="" style="shape=mxgraph.ios7.icons.user;fillColor=#ffffff;strokeColor=#253858" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
-          <mxGeometry x="341" y="180" width="32" height="32" as="geometry" />
+          <mxGeometry x="503" y="260" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="BWHUOpJET-gqt2DuxPi3-75" value="Jim Bunnings" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#000000;whiteSpace=wrap" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
-          <mxGeometry x="375" y="192" width="90" height="20" as="geometry" />
+          <mxGeometry x="549" y="279" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BWHUOpJET-gqt2DuxPi3-76" value="AUTHOR" style="rounded=1;arcSize=5;fillColor=#F2F3F5;strokeColor=none;fontColor=#596780;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=10;fontStyle=1;html=1" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
-          <mxGeometry x="457" y="192" width="55" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BWHUOpJET-gqt2DuxPi3-77" value="30, August 2016" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#596780;whiteSpace=wrap" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
-          <mxGeometry x="530" y="192" width="110" height="20" as="geometry" />
+          <mxGeometry x="645" y="279" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BWHUOpJET-gqt2DuxPi3-78" value="Thanks for the write-up." style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#000000;whiteSpace=wrap" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
-          <mxGeometry x="341" y="216" width="240" height="20" as="geometry" />
+          <mxGeometry x="502" y="306" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BWHUOpJET-gqt2DuxPi3-79" value="You&amp;apos;ve mentioned the reasons for changing the name. But what were the reasons for holding onto the old name so long? I remember &lt;font color=&quot;#4c9aff&quot; style=&quot;background-color: rgb(244 , 245 , 247)&quot;&gt;@Jesse Byler&lt;/font&gt; suggesting the name change back in January in: Re: Y U NO use Confluence" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#000000;whiteSpace=wrap;verticalAlign=top" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
-          <mxGeometry x="341" y="236" width="358" height="55" as="geometry" />
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-79" value="Detail: ..." style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#000000;whiteSpace=wrap;verticalAlign=top" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
+          <mxGeometry x="504" y="329" width="322" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BWHUOpJET-gqt2DuxPi3-80" value="Reply &amp;#8226; Edit &amp;#8226; Delete &amp;#8226; Like" style="html=1;fillColor=none;strokeColor=none;fontSize=12;align=left;fontColor=#596780;whiteSpace=wrap" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
-          <mxGeometry x="341" y="309" width="240" height="20" as="geometry" />
+          <mxGeometry x="504" y="354" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BWHUOpJET-gqt2DuxPi3-81" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="BWHUOpJET-gqt2DuxPi3-41" source="BWHUOpJET-gqt2DuxPi3-75" target="BWHUOpJET-gqt2DuxPi3-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-96" value="" style="rounded=1;fillColor=#F1F2F4;align=center;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
+          <mxGeometry x="652" y="159" width="56" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-97" value="" style="shape=ellipse;fillColor=#596780;strokeColor=none;html=1" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-96">
+          <mxGeometry x="15" y="13" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-98" value="" style="shape=ellipse;fillColor=#596780;strokeColor=none;html=1" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-96">
+          <mxGeometry x="25" y="13" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-99" value="" style="shape=ellipse;fillColor=#596780;strokeColor=none;html=1" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-96">
+          <mxGeometry x="35" y="13" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-91" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=10;fillColor=#F1F2F4;strokeColor=#ffffff;strokeWidth=2" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
+          <mxGeometry x="399" y="159" width="240" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-92" value="In Progress" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=0;fontSize=12;fontColor=#596780;fontStyle=0;fillColor=none;strokeColor=#ffffff;strokeWidth=2;resizeHeight=1;whiteSpace=wrap;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-91">
+          <mxGeometry width="90" height="33" relative="1" as="geometry">
+            <mxPoint x="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-93" value="Workflow" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fontSize=12;fontColor=#596780;fontStyle=0;fillColor=none;strokeColor=#ffffff;strokeWidth=2;resizeHeight=1;spacingLeft=10;whiteSpace=wrap;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-91">
+          <mxGeometry x="1" width="90" height="33" relative="1" as="geometry">
+            <mxPoint x="-90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-94" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-93">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-95" value="Later" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fontSize=12;fontColor=#596780;fontStyle=0;fillColor=none;strokeColor=#ffffff;strokeWidth=2;resizeHeight=1;whiteSpace=wrap;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-91">
+          <mxGeometry width="60" height="33" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-90" value="Assign" style="rounded=1;fillColor=#F1F2F4;align=center;strokeColor=none;html=1;fontColor=#596780;fontSize=12;whiteSpace=wrap;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
+          <mxGeometry x="297" y="159" width="70" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-89" value="Comment" style="rounded=1;fillColor=#F1F2F4;align=center;strokeColor=none;html=1;fontColor=#596780;fontSize=12;whiteSpace=wrap;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
+          <mxGeometry x="212" y="159" width="80" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-88" value="Edit" style="rounded=1;fillColor=#0065FF;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;whiteSpace=wrap;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
+          <mxGeometry x="155" y="159" width="50" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-103" value="" style="rounded=1;fillColor=#ffffff;strokeColor=#DFE1E5;shadow=1;arcSize=1" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
+          <mxGeometry x="139" y="237" width="335" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-104" value="SUGGESTIONS" style="fillColor=none;strokeColor=none;html=1;resizeWidth=1;align=left;spacingLeft=20;fontSize=11;fontStyle=1;fontColor=#596780" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-103">
+          <mxGeometry width="266.0294117647059" height="33" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-105" value="" style="rounded=0;fillColor=#000000;strokeColor=none;html=1;opacity=10;resizeWidth=1" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-103">
+          <mxGeometry width="335.00000000000006" height="33" relative="1" as="geometry">
+            <mxPoint y="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-106" value="Marianne Nguyen &lt;font color=&quot;#596780&quot;&gt;mnguyen@atlassian.com&lt;/font&gt;" style="shape=mxgraph.ios7.icons.user;fillColor=none;strokeColor=#253858;html=1;;align=left;fontSize=12;spacingLeft=5;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-103">
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="20" y="45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-107" value="ALL USERS" style="fillColor=none;strokeColor=none;html=1;resizeWidth=1;align=left;spacingLeft=20;fontSize=11;fontStyle=1;fontColor=#596780" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-103">
+          <mxGeometry width="266.0294117647059" height="33" relative="1" as="geometry">
+            <mxPoint y="85" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-108" value="Sam Samuels &lt;font color=&quot;#596780&quot;&gt;ssamuels@atlassian.com&lt;/font&gt;" style="shape=mxgraph.ios7.icons.user;fillColor=none;strokeColor=#253858;html=1;;align=left;fontSize=12;spacingLeft=5;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-103">
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="20" y="118" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-109" value="Leana Stevens &lt;font color=&quot;#596780&quot;&gt;lstevens@atlassian.com&lt;/font&gt;" style="shape=mxgraph.ios7.icons.user;fillColor=none;strokeColor=#253858;html=1;;align=left;fontSize=12;spacingLeft=5;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-103">
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="20" y="151" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-101" value="" style="rounded=1;arcSize=9;fillColor=#ffffff;strokeColor=#4C9AFF;html=1;strokeWidth=2;spacingLeft=30;fontColor=#000000;align=left" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-41">
+          <mxGeometry x="139" y="204" width="338" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-102" value="" style="shape=mxgraph.ios7.icons.looking_glass;fillColor=none;strokeColor=#243759;html=1;strokeWidth=2" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-101">
+          <mxGeometry x="1" y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="-30" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWHUOpJET-gqt2DuxPi3-100" value="Assignee" style="html=1;fillColor=none;strokeColor=none;fontSize=11;align=left;fontColor=#596780;whiteSpace=wrap;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-101">
+          <mxGeometry x="11" y="6" width="150" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="BWHUOpJET-gqt2DuxPi3-54" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="-182" y="949" width="736" height="433" as="geometry" />
+          <mxGeometry x="-185" y="924" width="736" height="433" as="geometry" />
         </mxCell>
         <mxCell id="BWHUOpJET-gqt2DuxPi3-55" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot; class=&quot;15&quot;&gt;&lt;font color=&quot;#080808&quot; style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;Assigns Home&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;Page&amp;nbsp;&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="BWHUOpJET-gqt2DuxPi3-54">
           <mxGeometry x="60" y="14" width="224" height="26" as="geometry" />
